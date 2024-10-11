@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecta con migo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/](https://www.linkedin.com/in/pedro-aldana-a6a563203/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/pedro-aldana-a6a563203/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center"
@@ -36,31 +36,41 @@
 <td width="50%">
 <h3 align="center">Generador de Contraseñas</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://mdt-password.vercel.app/" target="_blank"><img src="https://utfs.io/f/DMArLzfAtNuGVi14SkYPpHw17XSe8WKjGZnqs6hYRvkmfiE0" width="400" alt="mdt_password"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/pedro-aldana/mdt-password" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
+<a href="https://mdt-password.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-SITIO WEB-green?style=for-the-badge&color=fbfc40">
+</a>
+
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Gestiona y organiza tus contraseñas de manera eficiente con <strong>Next.js, TypeScript, Prisma y MongoDB</strong>. Este sistema te permite generar distintos tipos de contraseñas para su uso en diversas aplicaciones, y almacenarlas de forma segura para evitar olvidos.</p>
+
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Inventario</h3>
+<h3 align="center">Tienda Virtual</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://shopys-ecommerce.vercel.app/" target="_blank"><img src="https://utfs.io/f/DMArLzfAtNuGleDxqq6HP4hu1BDS0YITL6FUGpas5eVwNykW" width="400" alt="Shopys"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/pedro-aldana/shopys-ecommerce" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
+<a href="https://shopys-ecommerce.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-SITIO WEB-green?style=for-the-badge&color=fbfc40">
+</a>
+
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Vende y gestiona tus productos de forma virtual con <strong>Next.js, TypeScript, Prisma y MongoDB</strong>. Esta plataforma de comercio electrónico te permite administrar pedidos, gestionar un carrito de compras y mucho más, facilitando la venta y el control de tus productos en línea.</p>
+
 </div>                                                             
 </table>                                                                                 
 </div>
