@@ -56,7 +56,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Libreria</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLc1VkkyQ4BL03l75oenh1TU9GDFjuSRkpiMY2" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>aplicación para lectores que permite subir libros en formato PDF y compartirlos con otros usuarios. Además, cuenta con un sistema avanzado de gestión de roles, asegurando que solo los usuarios con los permisos adecuados puedan acceder a ciertas funciones.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
