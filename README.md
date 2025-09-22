@@ -7,20 +7,21 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Pedro! 
+*(Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, PostgreSQL, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+✨ Student of code and life :)  
+🌱 Siempre aprendiendo, cada día es una nueva oportunidad para crecer.  
+🚀 Fundador de una startup de programación en Colombia.  
+💻 Desarrollo páginas web, diseño gráfico y sistemas a la medida.  
+📚 Apasionado por la filosofía estoica y el emprendimiento.  
+❤ Contribuyendo a la comunidad tech y al open source.  
+🌐 Visita mi portafolio para conocer más sobre mí.  
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,19 +35,12 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,typescript,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
 
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
