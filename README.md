@@ -58,7 +58,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLc1VkkyQ4BL03l75oenh1TU9GDFjuSRkpiMY2" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
