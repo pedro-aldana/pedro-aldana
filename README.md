@@ -41,9 +41,9 @@
 <td width="50%">
 <h3 align="center">Ecommerce inprosegmulti</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpL0XcGhEyetMiY5nzH02IovOZqxLEPKldR8hGb" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/pedro-aldana/inprosegmulti" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpL0XcGhEyetMiY5nzH02IovOZqxLEPKldR8hGb" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/pedro-aldana/inprosegmulti" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"
 </a>
 
@@ -58,10 +58,10 @@
                <br>
 <h3 align="center">Libreria</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLc1VkkyQ4BL03l75oenh1TU9GDFjuSRkpiMY2" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/pedro-aldana/libreria-client" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLc1VkkyQ4BL03l75oenh1TU9GDFjuSRkpiMY2" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/pedro-aldana/libreria-client" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
