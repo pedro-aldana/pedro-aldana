@@ -65,7 +65,6 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>aplicación para lectores que permite subir libros en formato PDF y compartirlos con otros usuarios. Además, cuenta con un sistema avanzado de gestión de roles, asegurando que solo los usuarios con los permisos adecuados puedan acceder a ciertas funciones.</p>
