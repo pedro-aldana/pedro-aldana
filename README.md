@@ -16,9 +16,9 @@
 
 I design and build software, systems and digital experiences focused on solving real problems through technology.
 
-[🌐 Portfolio](https://aldanacode.dev) ·
+[🌐 Portfolio](https://aldanacode.com) ·
 [💼 LinkedIn](https://www.linkedin.com/in/pedro-aldana/) ·
-[📩 Contact](mailto:hola@aldanacode.dev)
+[📩 Contact](mailto:pedroaldana987@gmail.com)
 
 </div>
 
