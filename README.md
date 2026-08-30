@@ -1,107 +1,292 @@
-<!--Banner-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23E848&height=120&section=header"/>
+<!-- ===================================================== -->
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<!--                     ALDANACODE                         -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:23E848&height=140&section=header"/>
+
+# 👋 Hey, I'm Pedro Aldana
+
+### Software Engineer · Builder
+
+**Build. Experiment. Learn. Share.**
+
+I design and build software, systems and digital experiences focused on solving real problems through technology.
+
+[🌐 Portfolio](https://aldanacode.dev) ·
+[💼 LinkedIn](https://www.linkedin.com/in/pedro-aldana/) ·
+[📩 Contact](mailto:hola@aldanacode.dev)
+
 </div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Pedro! 
-*(Developer / Programmer)*
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, PostgreSQL, REST API and Data Visualization. </p>
-
-✨ Student of code and life :)  
-🌱 Siempre aprendiendo, cada día es una nueva oportunidad para crecer.  
-🚀 Fundador de una startup de programación en Colombia.  
-💻 Desarrollo páginas web, diseño gráfico y sistemas a la medida.  
-📚 Apasionado por la filosofía estoica y el emprendimiento.  
-❤ Contribuyendo a la comunidad tech y al open source.  
-🌐 Visita mi portafolio para conocer más sobre mí.  
-
-<!--End Intro-->
-
-
 
 ---
-<br />
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,typescript,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+## 🧑‍💻 About Me
+
+I'm a **Software Engineer** focused on building modern web applications, APIs and software systems.
+
+My work sits at the intersection of:
+
+* 🏗️ **Software Architecture**
+* ⚡ **Full Stack Development**
+* 🧩 **Complex Domain Modeling**
+* ☁️ **Cloud & DevOps**
+* 🤖 **Applied AI**
+* 🔧 **Developer Experience**
+* 📚 **Open Source**
+
+I enjoy taking an idea from **problem → architecture → implementation → deployment** and documenting what I build, break and learn along the way.
+
+Currently building **AldanaCode**, a digital engineering laboratory where I experiment with software, architecture, AI and developer tools.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&perline=10" />
 </p>
-<br />
-## Proyectos *bombitas*
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=10" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express&perline=10" />
+</p>
+
+### Data & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,linux,git,githubactions&perline=10" />
+</p>
+
+### Engineering
+
+`REST APIs` · `Clean Architecture` · `DDD` · `Event Sourcing` · `Testing` · `CI/CD` · `Observability`
+
+---
+
+# 🚀 Selected Projects
+
+A few things I've been building.
+
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Ecommerce inprosegmulti</h3>
-<div align="center">
-<a href="https://github.com/pedro-aldana/inprosegmulti" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpL0XcGhEyetMiY5nzH02IovOZqxLEPKldR8hGb" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/pedro-aldana/inprosegmulti" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"
-</a>
 
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 ClinicCare</h3>
+
+<p align="center">
+<strong>Veterinary Clinic Management Platform</strong>
+</p>
+
+<p>
+A modular platform designed to manage veterinary clinics, including patients, owners, appointments, medical records and role-based access control.
+</p>
+
+<p>
+<strong>Stack:</strong><br/>
+Django · Django REST Framework · Next.js · TypeScript · PostgreSQL · Docker
+</p>
+
+<p align="center">
+<a href="https://github.com/mdtec-code-dev/cliniccare-platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-<p>Aplicativo web para una empresa especializada en ventas de EEPS, desarrollado con Next.js, TypeScript, Strapi y PostgreSQL.</p>
-</div>
-                                                                                      
+
 </td>
 
-<td width="50%">
-               <br>
-<h3 align="center">Libreria</h3>
-<div align="center">                                       
-<a href="https://github.com/pedro-aldana/libreria-client" target="_blank"><img src="https://zt7prs54ew.ufs.sh/f/MWxHR0BmEvpLc1VkkyQ4BL03l75oenh1TU9GDFjuSRkpiMY2" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/pedro-aldana/libreria-client" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<td width="50%" valign="top">
 
-</a>
-</p>
-</p>aplicación para lectores que permite subir libros en formato PDF y compartirlos con otros usuarios. Además, cuenta con un sistema avanzado de gestión de roles, asegurando que solo los usuarios con los permisos adecuados puedan acceder a ciertas funciones.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+<h3 align="center">🏦 Banking System</h3>
 
-
-
-
-
-
-<br />
-
-
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/pedro-aldana/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:pedroaldana987@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-
-
-
-<!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<strong>Event-Driven Banking Architecture</strong>
 </p>
 
+<p>
+A banking system exploring Event Sourcing, domain-driven design, aggregates, commands, projections and distributed system concepts.
+</p>
 
+<p>
+<strong>Stack:</strong><br/>
+TypeScript · Event Sourcing · PostgreSQL · Drizzle · Prisma · PGlite
+</p>
+
+<p align="center">
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📦 Inventory Platform</h3>
+
+<p align="center">
+<strong>Inventory & Business Management System</strong>
+</p>
+
+<p>
+A full-stack inventory platform focused on APIs, data modeling, business rules and reliable transaction processing.
+</p>
+
+<p>
+<strong>Stack:</strong><br/>
+FastAPI · SQLAlchemy · Alembic · PostgreSQL · Next.js · TypeScript
+</p>
+
+<p align="center">
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 AI Playground</h3>
+
+<p align="center">
+<strong>Experiments with AI & Context Retrieval</strong>
+</p>
+
+<p>
+An experimental environment for exploring AI systems, context retrieval, LLM workflows and developer tooling.
+</p>
+
+<p>
+<strong>Focus:</strong><br/>
+AI · LLMs · Retrieval · Developer Experience · Experimentation
+</p>
+
+<p align="center">
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧪 What I'm Building
+
+> **AldanaCode — A digital engineering laboratory**
+
+AldanaCode is more than a portfolio.
+
+It's a place where I:
+
+* 🔬 Experiment with new technologies
+* 🏗️ Design and build software systems
+* 🧠 Explore architecture and complex domains
+* 🤖 Experiment with AI and LLMs
+* 📦 Build reusable developer tools
+* 🌎 Explore Open Source
+* ✍️ Document engineering lessons
+* 🚀 Turn ideas into working products
+
+---
+
+# 📦 Open Source
+
+I'm interested in building and sharing reusable software.
+
+Current areas of exploration:
+
+* React component systems
+* Developer tools
+* Type-safe architectures
+* APIs and backend infrastructure
+* AI tooling
+* Software architecture
+* Documentation as a product
+
+---
+
+# 🧭 Engineering Interests
+
+```text
+Software Architecture
+        ↓
+Domain Modeling
+        ↓
+APIs & Distributed Systems
+        ↓
+Developer Experience
+        ↓
+AI & Intelligent Systems
+        ↓
+Open Source
+```
+
+I'm particularly interested in understanding **why a system should be designed a certain way**, not just making it work.
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-aldana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-aldana&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to:
+
+* 💼 Software Engineering opportunities
+* 🤝 Freelance & consulting projects
+* 🚀 Building products
+* 🧠 Technical collaborations
+* 🌎 Open Source
+* 💡 Interesting ideas
+
+<div align="center">
+
+### Let's build something useful.
+
+**Pedro Aldana · AldanaCode**
+
+[🌐 aldanacode.dev](https://aldanacode.dev)
+
+[LinkedIn](https://www.linkedin.com/in/pedro-aldana/) ·
+[Email](mailto:hola@aldanacode.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:23E848,100:111827&height=100&section=footer"/>
+
+</div>
