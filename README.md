@@ -276,10 +276,10 @@ I'm open to:
 
 **Pedro Aldana · AldanaCode**
 
-[🌐 aldanacode.dev](https://aldanacode.dev)
+[🌐 aldanacode.dev](https://aldanacode.com)
 
 [LinkedIn](https://www.linkedin.com/in/pedro-aldana/) ·
-[Email](mailto:hola@aldanacode.dev)
+[Email](mailto:pedroaldana987@gmail.com)
 
 </div>
 
